@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **minku6296@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ov4uAg1DxLaAwz-KGPJTIQVVYi2eHggB/view?usp=sharing](https://drive.google.com/file/d/1ov4uAg1DxLaAwz-KGPJTIQVVYi2eHggB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ov4uAg1DxLaAwz-KGPJTIQVVYi2eHggB/view?usp=sharing](https://docs.google.com/document/d/11ftxalu18WWC670rWRDLqk7G4izKa-uanEgkbsdJ7-k/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
