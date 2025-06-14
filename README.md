@@ -1,10 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkzMDk5MTQsIm5iZiI6MTcxOTMwOTYxNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI1VDEwMDAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzMGJiNGM1NjVmYzNkNzM3ZTBmNzgyZWUyZTE3OGEzYjJiYzQzYWRlODFlYTljZmY5NWYzNDUxNzU4ZDQ3NTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DyPL4nj12QoeZVDWe3jZQ2xRoF1P2Q_ROqasJxE6Teg)](https://MayankGEHU.io)
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="## 🎥 Demo
 
-<h2>🎥 Demo</h2>
-<div align="center">
+<div align="right" width="400" >
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Demo" />
 </div>
 
