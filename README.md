@@ -2,16 +2,21 @@
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<div align="right">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Demo" />
-</div>
+<table>
+  <tr>
+    <td align="left" width="60%">
 
-
-- 🌱 I’m currently learning **MERN, Data Structure & Algorithms**
-
-- 💬 Ask me about **MERN , Data structure**
-
+- 🌱 I’m currently learning **MERN, Data Structure & Algorithms**  
+- 💬 Ask me about **MERN , Data Structure**  
 - 📫 How to reach me **minku6296@gmail.com**
+
+    </td>
+    <td align="right" width="40%">
+      <img width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Demo" />
+    </td>
+  </tr>
+</table>
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ov4uAg1DxLaAwz-KGPJTIQVVYi2eHggB/view?usp=sharing](https://docs.google.com/document/d/11ftxalu18WWC670rWRDLqk7G4izKa-uanEgkbsdJ7-k/edit?usp=sharing)
 
