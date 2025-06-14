@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<div align="right" width="400" >
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Demo" />
+<div align="right">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Demo" />
 </div>
 
 
