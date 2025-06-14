@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="## 🎥 Demo
 
-![Demo](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+[![Demo](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)]
 
 - 🌱 I’m currently learning **MERN, Data Structure & Algorithms**
 
