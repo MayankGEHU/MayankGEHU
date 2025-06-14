@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td align="left" width="60%">
+    <td align="left" width="100%">
 
 - 🌱 I’m currently learning **MERN, Data Structure & Algorithms**  
 - 💬 Ask me about **MERN , Data Structure**  
