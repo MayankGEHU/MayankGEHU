@@ -18,7 +18,18 @@
 </table>
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ov4uAg1DxLaAwz-KGPJTIQVVYi2eHggB/view?usp=sharing](https://drive.google.com/file/d/1XTjZQsy-AB5q6mQNoKlNHqFf2fQ4A-tX/view?usp=sharing)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
